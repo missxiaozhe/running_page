@@ -11,7 +11,7 @@ interface ISiteMetadataResult {
 
 const data: ISiteMetadataResult = {
   siteTitle: 'Running Page',
-  siteUrl: 'http://run.coney.site',
+  siteUrl: 'https://run.coney.site',
   logo: '/images/favicon.png',
   description: 'Personal site and blog',
   navLinks: [
